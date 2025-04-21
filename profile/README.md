@@ -14,7 +14,7 @@ If you're thinking whether the upgrade is worth it, here are some highlights fro
 
 **Guaranteed resources** – Unlike shared hosting, where you're fighting with hundreds of other sites for server resources, Bluehost VPS Hosting gives you dedicated CPU, RAM, and storage. It's like going from a crowded house share to having your own room!
 
-**Serious price drops for 2025** – The best part? Bluehost is currently giving up to 61% off their VPS plans. Their entry-level plan (which is anything but basic) starts at just £46.99 per month on a 36-month term – a significant saving from the regular £65.99 per month.
+**Serious price drops for 2025** – The best part? Bluehost is currently giving up to 61% off their VPS plans. Their entry-level plan (which is anything but basic) starts at just $46.99 per month on a 36-month term – a significant saving from the regular $65.99 per month.
 
 Which Plan Is Right For You?
 ----------------------------
